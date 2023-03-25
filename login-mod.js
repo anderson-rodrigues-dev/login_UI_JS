@@ -121,7 +121,7 @@ class Login{
         accent-color: #131086;
         }
 
-        button {
+        .login-form-coteudo button {
         border: none;
         background: linear-gradient(45deg, #131086, #b621f3);
         color: white;
